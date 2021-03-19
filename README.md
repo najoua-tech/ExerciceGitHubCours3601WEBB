@@ -6,3 +6,5 @@ Modification du fichier sur la branche BranchTravailReadMe
 
 Ajout à la ligne 7 pour faire un pull du site de GitHub.com
 Maintenant, je peux faire des modifications et les envoyer sur mon site GitHub.com
+
+Au niveau de mon site GitHub.com, je vais rajouter un commit
